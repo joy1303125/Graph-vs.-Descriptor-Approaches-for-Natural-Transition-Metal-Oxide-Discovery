@@ -107,7 +107,7 @@ import os
 import csv
 
 # Set the directory containing the VASP files
-directory = '/content/ll'
+directory = '/content/mm'
 
 # Set the output CSV file path
 output_csv = 'output.csv'
