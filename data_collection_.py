@@ -9,6 +9,7 @@ import pandas as pd
 import pymatgen
 from pymatgen.ext.matproj import MPRester
 
+from matminer.featurizers.structure import DensityFeatures
 
 # # transitional_oxide_bi
 
